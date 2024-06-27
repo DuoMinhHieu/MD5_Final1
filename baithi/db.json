@@ -3,60 +3,60 @@
     {
       "id": 1,
       "code": "B01",
-      "title": "Boock1",
-      "category": "Fantasy",
+      "title": "Book1",
+      "category": "category01",
       "entryDate": "2023-06-01",
       "quantity": 50
     },
     {
       "id": 2,
       "code": "B02",
-      "title": "To Kill a Mockingbird",
-      "category": "Fiction",
+      "title": "Book2",
+      "category": "category02",
       "entryDate": "2023-06-15",
       "quantity": 30
     },
     {
       "id": 3,
       "code": "B03",
-      "title": "1984",
-      "category": "Science Fiction",
+      "title": "Book3",
+      "category": "category03",
       "entryDate": "2023-06-10",
       "quantity": 25
     },
     {
       "id": 4,
       "code": "B04",
-      "title": "Pride and Prejudice",
-      "category": "Classic",
+      "title": "Book4",
+      "category": "category04",
       "entryDate": "2023-06-20",
       "quantity": 40
     }
   ],
-  "categories": [
+  "category": [
     {
       "id": 1,
       "code": "C01",
-      "name": "Fantasy",
-      "description": "Books that feature magical and supernatural elements."
+      "name": "category01",
+      "description": "category0001."
     },
     {
       "id": 2,
       "code": "C02",
-      "name": "Fiction",
-      "description": "Works of narrative prose that are imaginary."
+      "name": "category02",
+      "description": "category0002."
     },
     {
       "id": 3,
       "code": "C03",
-      "name": "Science Fiction",
-      "description": "Speculative fiction based on imagined future scientific or technological advances."
+      "name": "category03",
+      "description": "category0003."
     },
     {
       "id": 4,
       "code": "C04",
-      "name": "Classic",
-      "description": "Books that have become part of an established literary canon."
+      "name": "category04",
+      "description": "category0004."
     }
   ]
 }
